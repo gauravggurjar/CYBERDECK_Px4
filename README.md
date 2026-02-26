@@ -216,7 +216,7 @@ This system operates under **MIT License** - access [LICENSE](LICENSE) for full 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pritamx4)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Pritamx4-Studio?sub_confirmation=1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/smile._.only__/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pritamxfour/)
 
 **💾 "Think. Code. Create. Repeat."**  
 **⚡ Netrunner | Digital Architect | Neural UI Engineer**
